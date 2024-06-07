@@ -7,7 +7,7 @@ Welcome to my Machine Learning Projects Repository! My name is Saran Thaworn, Th
    - **Technologies Used:** The notebooks uses Logistic Regression, Naive Bayes Classification, Decision Tree Classification, Random Forest Classification and XGBoost Classification
    - **Results:** The best model for credit score is XGBoost by the accuracy, f1-score, precision score, and recall score and accepted the accuracy at 87.92%
   
-2. [Bank Churn Prediction]()
+2. [Bank Churn Prediction](https://github.com/Saran4B/MachineLearning/tree/main/Bank%20Churn%20Prediction)
    - **Description:** The Bank churn prediction is a project that analyze the insights of a customer in order to predict customer will leave the bank or not
    - **Technologies Used:** This project uses Logistic Regression, Naive Bayes Classification, Random Forest Classification and XGBoost Classification
    - **Results:** The best model for credit score is XGBoost by the accuracy, and accepted the accuracy at 86.56%
