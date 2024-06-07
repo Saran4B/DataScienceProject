@@ -12,7 +12,7 @@ Welcome to my Machine Learning Projects Repository! My name is Saran Thaworn, Th
    - **Technologies Used:** This project uses Logistic Regression, Naive Bayes Classification, Random Forest Classification and XGBoost Classification
    - **Results:** The best model for credit score is XGBoost by the accuracy, and accepted the accuracy at 86.56%
   
-3. [German Credit Prediction]()
+3. [German Credit Prediction](https://github.com/Saran4B/MachineLearning/tree/main/German%20Credit%20Prediction)
    - **Description:** The German Credit Prediction project predicts the creditability (0 = Non Creditiable, 1 = Creditiable)
    - **Technologies Used:** This project uses Logistic Regression, Naive Bayes Classification, Decision Tree Classification, Random Forest Classification and XGBoost Classification
    - **Results:** The best model for credit approval by accuracy 76.25% and AUC 0.68 is Random Forest.
