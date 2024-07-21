@@ -16,3 +16,8 @@ Welcome to my Machine Learning Projects Repository! My name is Saran, This repos
    - **Description:** The German Credit Prediction project predicts the creditability (0 = Non Creditiable, 1 = Creditiable)
    - **Technologies Used:** This project uses Logistic Regression, Naive Bayes Classification, Decision Tree Classification, Random Forest Classification and XGBoost Classification
    - **Results:** The best model for credit approval by accuracy 76.25% and AUC 0.68 is Random Forest.
+
+4. [Diamond Price Prediction](https://github.com/Saran4B/DataScienceProject/tree/main/Diamond%20Price%20Prediction)
+   - **Description:** The Diamond Price Prediction project forecasting the price of the daimonds. 
+   - **Technologies Used:** This project uses Linear Regression, Create new feature with polinomial feature, Ridge Regression, Lasso Regression and Elastic Net
+   - **Results:** The best model for diamond price prediction by R-square 0.9611 is Ridge Regression.
